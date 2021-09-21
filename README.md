@@ -1,4 +1,4 @@
- > Open this page at [https://arcade.makecode.com/#tutorial:https://makecode.com/_TuLbp34ouDmc](https://arcade.makecode.com/#tutorial:https://makecode.com/_TuLbp34ouDmc)
+ > Open this page at [https://arcade.makecode.com/#tutorial:https://makecode.com/_Ufj9zMD2tfAX](https://arcade.makecode.com/#tutorial:https://makecode.com/https://makecode.com/_Ufj9zMD2tfAX)
 
 # Haunted Pixel Art!
 
